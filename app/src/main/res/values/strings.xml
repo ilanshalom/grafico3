@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExGraficos3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_aviao">Aviao</string>
+    <string name="title_activity_aviao_view">AviaoView</string>
+</resources>
